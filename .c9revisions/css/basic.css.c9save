@@ -450,3 +450,17 @@
 {"ts":1380631750509,"patch":[[{"diffs":[[0,":solid;\n"],[1,"    border-bottom-color:#EAE8D3;\n"],[0,"}\n"]],"start1":3217,"start2":3217,"length1":10,"length2":43}]],"length":3260,"saved":false}
 {"ts":1380631759349,"patch":[[{"diffs":[[0,"tom-style:solid;"],[1,"1px;"],[0,"\n    border-bott"]],"start1":3208,"start2":3208,"length1":32,"length2":36}]],"length":3264,"saved":false}
 {"ts":1380631765134,"patch":[[{"diffs":[[0,"e:solid;"],[-1,"1px;"],[0,"\n    bor"]],"start1":3216,"start2":3216,"length1":20,"length2":16}]],"length":3260,"saved":false}
+{"ts":1380632664720,"patch":[[{"diffs":[[0,"ottomcontent"],[-1,"\n{"],[1," span\n{\n    display:none;\n}\n#bottomcontent\n{\n    content: 'hej';"],[0,"\n    float:l"]],"start1":2641,"start2":2641,"length1":26,"length2":88}]],"length":3322,"saved":false}
+{"ts":1380632677015,"patch":[[{"diffs":[[0,"ottomcontent"],[1,":after"],[0,"\n{\n    conte"]],"start1":2683,"start2":2683,"length1":24,"length2":30}]],"length":3328,"saved":false}
+{"ts":1380632699348,"patch":[[{"diffs":[[0,"tent"],[-1," span"],[0,"\n{\n "]],"start1":2649,"start2":2649,"length1":13,"length2":8}]],"length":3323,"saved":false}
+{"ts":1380632729316,"patch":[[{"diffs":[[0,"ottomcontent"],[1," span"],[0,"\n{\n    displ"]],"start1":2641,"start2":2641,"length1":24,"length2":29}]],"length":3328,"saved":false}
+{"ts":1380632744476,"patch":[[{"diffs":[[0,"tent"],[-1," span"],[0,"\n{\n    "],[-1,"display:none"],[1,"visibility:hidden"],[0,";\n}\n"]],"start1":2649,"start2":2649,"length1":32,"length2":32}]],"length":3328,"saved":false}
+{"ts":1380632756833,"patch":[[{"diffs":[[0," 'hej';\n"],[1,"    visibility:visible;\n"],[0,"    floa"]],"start1":2716,"start2":2716,"length1":16,"length2":40}]],"length":3352,"saved":false}
+{"ts":1380632802208,"patch":[[{"diffs":[[0,"t: '"],[-1,"hej"],[1,"Högskolan i Kalmar, Institutionen för kommunikation och design"],[0,"';\n "]],"start1":2714,"start2":2714,"length1":11,"length2":70}]],"length":3411,"saved":false}
+{"ts":1380632835534,"patch":[[{"diffs":[[0,"ntent: '"],[1,"\\00a9 "],[0,"Högskola"]],"start1":2710,"start2":2710,"length1":16,"length2":22},{"diffs":[[0,"\n    font-size:1"],[-1,"2"],[0,"px;\n    margin-l"]],"start1":2847,"start2":2847,"length1":33,"length2":32}]],"length":3416,"saved":false}
+{"ts":1380632839329,"patch":[[{"diffs":[[0,"t-size:1"],[1,"0"],[0,"px;\n    "]],"start1":2855,"start2":2855,"length1":16,"length2":17}]],"length":3417,"saved":false}
+{"ts":1380632855885,"patch":[[{"diffs":[[0," '\\00a9 "],[1," "],[0,"Högskola"]],"start1":2716,"start2":2716,"length1":16,"length2":17}]],"length":3418,"saved":false}
+{"ts":1380632861516,"patch":[[{"diffs":[[0,"\n    font-size:1"],[-1,"0"],[1,"1"],[0,"px;\n    margin-l"]],"start1":2848,"start2":2848,"length1":33,"length2":33}]],"length":3418,"saved":false}
+{"ts":1380632877250,"patch":[[{"diffs":[[0,"ent:after\n{\n"],[1,"    font-family:'Times New Roman';\n"],[0,"    content:"]],"start1":2692,"start2":2692,"length1":24,"length2":59}]],"length":3453,"saved":false}
+{"ts":1380632883927,"patch":[[{"diffs":[[0,"ily:"],[-1,"'Times New Roman'"],[1,"verdana"],[0,";\n  "]],"start1":2716,"start2":2716,"length1":25,"length2":15}]],"length":3443,"saved":false}
+{"ts":1380632888908,"patch":[[{"diffs":[[0,"t-size:1"],[-1,"1"],[1,"0"],[0,"px;\n    "]],"start1":2881,"start2":2881,"length1":17,"length2":17}]],"length":3443,"saved":false}

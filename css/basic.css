@@ -172,9 +172,16 @@ a:active
 
 #bottomcontent
 {
+    visibility:hidden;
+}
+#bottomcontent:after
+{
+    font-family:verdana;
+    content: '\00a9  Högskolan i Kalmar, Institutionen för kommunikation och design';
+    visibility:visible;
     float:left;
     color:#918D82;
-    font-size:12px;
+    font-size:10px;
     margin-left:10px;
     font-style:italic
 }
