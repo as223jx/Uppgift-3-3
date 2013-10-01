@@ -1,1 +1,143 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+
+#container
+{
+    width:600px;
+    margin:auto;
+    
+
+}
+
+#topbar
+{
+    font-family:Verdana;
+    font-weight:normal;
+    font-size:10px;
+    color:#EAE8D3;
+    padding-bottom:15px;
+    padding-top:5px;
+    text-align:right;
+    background:url(pics/coffey.jpg) no-repeat bottom center;
+    height:200px;
+    width:600px;
+    background-color:#4E443B;
+    border-style:solid;
+    border-width:1px;
+    border-color:#918D82;
+}
+
+#menu
+{
+    background-color:#4E443B;
+    height:40px;
+    border-style:solid;
+    border-width:1px;
+    border-color:#918D82;
+    width:600px;
+}
+
+
+
+#menu ul li
+{
+    font-family:Verdana;
+    font-weight:normal;
+    text-transform:capitalize;
+    font-size:14px;
+    float:left;
+    list-style-type: none;
+}
+
+#menu ul li a:link 
+{ 
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right:15px;
+    margin-left:5px;
+    margin-right:5px;
+    color:#EAE8D3;
+    background-color:#918D82;
+    text-decoration:none;
+}
+
+#menu ul a:visited 
+{     
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right:15px;
+    margin-left:5px;
+    margin-right:5px;
+    color:#EAE8D3;
+    background-color:#918D82;
+    text-decoration:none;
+}
+
+#content
+{
+    height:500px;
+    width:600px;
+    background-color:#EAE8D3;
+    border-style:solid;
+    border-width:1px;
+    border-color:#918D82;
+}
+
+#maincontent
+{
+    font-family:Verdana;
+    font-weight:normal;
+    font-size:14px;
+    line-height:150%;
+    color:#918D82;
+    float:left;
+    width:350px;
+    padding:10px;
+}
+
+#maincontent h1
+{
+    font-family:"Times New Roman";
+    font-weight:normal;
+    font-size:30px;
+    color:#666;
+}
+
+#maincontent img
+{
+    float:left;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+
+#subcontent h1
+{
+    font-family:"Times New Roman";
+    font-weight:normal;
+    font-size:18px;
+    color:#918D82;
+}
+
+#subcontent
+{
+    font-family:Verdana;
+    font-weight:normal;
+    color:#918D82;
+    font-size:9px;
+    line-height:200%;
+    width:190px;
+    margin-left:390px;
+    margin-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-top:10px;
+    border-left-style:dashed;
+    border-width:1px;
+}
+
+#bottomcontent
+{
+    float:left;
+}
